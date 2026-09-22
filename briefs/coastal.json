@@ -1,0 +1,11 @@
+{
+  "scene": "coastal road",
+  "lighting": "warm low sun",
+  "time_of_day": "dusk",
+  "mood": "quiet, nostalgic",
+  "elements": [
+    {"what": "lighthouse", "placement": "far left, background"},
+    {"what": "vintage red car", "placement": "center, on the road"},
+    {"what": "sea fog", "placement": "rolling over the cliffs"}
+  ]
+}

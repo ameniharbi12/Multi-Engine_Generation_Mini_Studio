@@ -1,0 +1,10 @@
+{
+  "scene": "rainy neon alley",
+  "lighting": "neon signs reflecting on wet asphalt",
+  "time_of_day": "night",
+  "mood": "tense, cinematic",
+  "elements": [
+    {"what": "lone cyclist", "placement": "right foreground"},
+    {"what": "steaming street food stall", "placement": "left midground"}
+  ]
+}
